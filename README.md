@@ -1,2 +1,2 @@
-# le_sigh
+# le_sighs
 Weekly math things
