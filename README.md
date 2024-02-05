@@ -8,7 +8,7 @@ https://see.stanford.edu/Course
 
 * January - May 2024: Review underutilized math skills 
   * 6.431x - **Probability** https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data
-  *  Unit 1 [x][x][x][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21]
+  *  Unit 1 [x][x][x][x][x][x][x][x][x][x][x][12][13][14][15][16][17][18][19][20][21]
      - Readings [1.1][1.2] 
   *  Unit 2 [1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20]
      - Readings [1.1][1.2] 
